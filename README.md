@@ -4,7 +4,7 @@
 
 这里记录的就是这些事情。
 
-网页版戳:point_right:[这里](https://blog.sidfate.com/tag/share/)
+网页版请戳:point_right:[这里](https://blog.sidfate.com/tag/share/)
 
 ### 版权声明
 
